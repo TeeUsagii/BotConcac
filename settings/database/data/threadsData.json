@@ -1,0 +1,103 @@
+{
+    "4127643970650750": {
+        "ID": "4127643970650750",
+        "name": "Bot System",
+        "emoji": "🍄",
+        "prefix": "",
+        "members": {
+            "100005548624106": {
+                "ID": "100005548624106",
+                "totalMsg": 12,
+                "bietdanh": "Chử Xuân Hòa - Dating with Henry"
+            }
+        },
+        "color": "006528",
+        "totalMsg": 13532,
+        "adminIDs": [
+            {
+                "id": "100005548624106"
+            },
+            {
+                "id": "100024885516994"
+            }
+        ],
+        "avatarGroup": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.15752-9/215210306_3044372742459876_3238203366633548654_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=02e273&_nc_ohc=_EO3ukj59CcAX_CJd0t&tn=1v1Y0-J5Bi3QWfmV&_nc_ht=scontent-iad3-1.xx&oh=03_AVLl_ZdiH23VxM9C0NyVLZEq5HNdkHp0UlqM_LiJloZAoQ&oe=62756177",
+        "createTime": {
+            "timestamp": 1649444750308,
+            "fullTime": "02:04:15 09/04/2022"
+        },
+        "lastUpdate": 1649444750308
+    },
+    "4593833707388266": {
+        "ID": "4593833707388266",
+        "name": "Box Chung Game Ma Sói - 5667941889904191",
+        "emoji": null,
+        "prefix": "#",
+        "members": {
+            "100005548624106": {
+                "ID": "100005548624106",
+                "totalMsg": 91,
+                "bietdanh": ""
+            },
+            "100024885516994": {
+                "ID": "100024885516994",
+                "totalMsg": 79,
+                "bietdanh": ""
+            },
+            "100033782056904": {
+                "ID": "100033782056904",
+                "totalMsg": 6,
+                "bietdanh": ""
+            }
+        },
+        "color": null,
+        "totalMsg": 4,
+        "adminIDs": [
+            {
+                "id": "100024885516994"
+            }
+        ],
+        "avatarGroup": null,
+        "createTime": {
+            "timestamp": 1649445007893,
+            "fullTime": "02:10:02 09/04/2022"
+        },
+        "lastUpdate": 1649445007893
+    },
+    "5096282627102524": {
+        "ID": "5096282627102524",
+        "name": "Cherry Bot",
+        "emoji": "😂",
+        "prefix": "",
+        "members": {
+            "100007450141047": {
+                "ID": "100007450141047",
+                "totalMsg": 2,
+                "bietdanh": "[ ! ] • ManhG Bot"
+            },
+            "100024885516994": {
+                "ID": "100024885516994",
+                "totalMsg": 2,
+                "bietdanh": "Henry - Dating with Chử Xuân Hòa"
+            },
+            "100077721247557": {
+                "ID": "100077721247557",
+                "totalMsg": 2,
+                "bietdanh": ""
+            }
+        },
+        "color": "601DDD",
+        "totalMsg": 7915,
+        "adminIDs": [
+            {
+                "id": "100005548624106"
+            }
+        ],
+        "avatarGroup": null,
+        "createTime": {
+            "timestamp": 1649450909737,
+            "fullTime": "02:35:25 09/04/2022"
+        },
+        "lastUpdate": 1649450909737
+    }
+}

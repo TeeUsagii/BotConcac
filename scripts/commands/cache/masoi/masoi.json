@@ -1,0 +1,26 @@
+[{
+    "id": 9,
+    "ten": "Bán Sói",
+    "gioithieu": "Bạn là một người dân bình thường cho tới khi bị Sói căn, lúc đó bạn sẽ trở thành Ma Sói.",
+    "Phe": "Ma Sói Hoặc Dân Làng"
+}, {
+    "id": 10,
+    "ten": "Sói Trẻ",
+    "gioithieu": "Bạn là một con sói con dễ huông, bạn có thể chọn một người chơi khác để chết theo bạn khi bạn chết.\nBot sẽ ib riêng để hỏi xem bạn muốn ai chết cùng.",
+    "Phe": "Ma Sói"
+}, {
+    "id": 11,
+    "ten": "Sói Đầu Đàn",
+    "gioithieu": "Bạn là một Ma Sói bình thường. Ngoài việc bạn có sức mạnh gấp đôi so với sói khác (x2 vote đó).",
+    "Phe": "Ma Sói"
+}, {
+    "id": 12,
+    "ten": "Sói Tiên Tri",
+    "gioithieu": "Mỗi đêm, bạn có thể chọn một người để xem vai trò của họ. Nếu bạn là người sói cuối cùng, bạn sẽ trở thành một Ma Sói bình thường.\nBot sẽ ib riêng để hỏi xem bạn muốn xem vai trò của ai vào mỗi đêm.",
+    "Phe": "Ma Sói"
+}, {
+    "id": 13,
+    "ten": "Ma Sói",
+    "gioithieu": "Bạn là một ma sói bình thường, nhiệm vụ của bạn là vote người để giết vào ban đêm",
+    "Phe": "Ma Sói"
+}]

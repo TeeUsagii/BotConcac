@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "ten": "Bác Sĩ",
+    "gioithieu": "Chọn một người chơi để che chở vào mỗi đêm, người chơi đó sẽ không bị giết nếu bị sói vote trúng.\nBot sẽ ib riêng để hỏi bạn vào mỗi đêm.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 2,
+    "ten": "Xạ Thủ",
+    "gioithieu": "Bạn có 2 viên đạn để bắn bất kì ai đó. Chỉ được bắn 1 viên mỗi ngày. Vì âm thanh của súng rất lớn nên vai của bạn sẽ bị lộ tron nhát bắn đầu tiên.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 3,
+    "ten": "Tiên Tri",
+    "gioithieu": "Mỗi đêm bạn có thể xem vai trò của người chơi khác.\nBot sẽ ib riêng để hỏi xem bạn muốn xem vai trò của ai vào mỗi đêm.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 4,
+    "ten": "Thầy Bói",
+    "gioithieu": "Mỗi đêm bạn có thể chọn một người chơi để biết họ Thiện, Ác hay Không Rõ.\n\nÁc là phe Ma Sói, thiện là phe Dân Làng.\n\nNhững mục tiêu Không Rõ có thể là: Xạ Thủ, Thầy Đồng, Thợ Săn Quái Thú, Sói Đầu Đàn, Thằng Ngố, Thợ Săn Người, Kẻ Đặt Bom hoặc Sát Nhân.\nBot sẽ ib riêng để hỏi xem bạn muốn xem bói ai vào mỗi đêm.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 6,
+    "ten": "Thầy Đồng",
+    "gioithieu": "Vào ban đêm bạn có thể nói chuyện ẩn danh với người chết. Bạn có 1 lần hồi sinh người khác.\nBạn và người đã chết có thể nói chuyện với nhau bằng cách ib riêng với Bot.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 7,
+    "ten": "Kẻ Báo Thù",
+    "gioithieu": "Bạn có thể chọn 1 người chơi để giết khi bạn chết.\nBot sẽ ib riêng hỏi bạn muốn chọn ai.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 8,
+    "ten": "Thợ Săn Quái Thú",
+    "gioithieu": "Vào ban đêm, bạn có thể đặt bẫy vào người chơi, nó sẽ kích hoạt vào đêm hôm sau. Người chơi này không thể bị giết vào ban đêm. Nếu người chơi này bị Ma Sói tấn công, Ma Sói yếu nhất đàn sẽ chết. Phe giết người solo không thể bị giết bởi cái bẫy, thay vào đó sẽ mất bẫy sau khi bị họ tấn công.\nBot sẽ ib riêng để hỏi xem bạn muốn đặt bẫy cho ai vào mỗi đêm.",
+    "Phe": "Dân Làng"
+}, {
+    "id": 9,
+    "ten": "Dân Thường",
+    "gioithieu": "Bạn là một dân làng bình thường, nhiệm vụ của bạn là tìm ra Ma Sói và cùng những người dân làng khác giết chúng vào ban ngày.",
+    "Phe": "Dân Làng"
+}]

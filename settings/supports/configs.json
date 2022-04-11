@@ -1,0 +1,35 @@
+{
+    "devMode": true,
+    "testMode": false,
+    "allowInbox": true,
+    "refreshDatabase": {
+        "status": true,
+        "timeToRefresh": {
+            "users": 28800000,
+            "threads": 21600000
+        }
+    },
+    "saveData": true,
+    "commandsDisabled": [],
+    "eventsDisabled": [],
+    "BOTNAME": "Bot Super Cute - Created by Henry",
+    "prefix": "#",
+    "BotSystem": "4127643970650750",
+    "ADMIN": [
+        "100005548624106",
+        "100010108417986",
+        "100040984926932",
+        "100070416075853"
+    ],
+    "resend": {
+        "status": true,
+        "ID": "4127643970650750",
+        "banned": []
+    },
+    "optionsLogin": {
+        "forceLogin": true,
+        "autoMarkRead": true,
+        "listenEvents": true,
+        "selfListen": true
+    }
+}
